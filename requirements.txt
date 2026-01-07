@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pandas
+PyQt5
+read_roi
+roifile
